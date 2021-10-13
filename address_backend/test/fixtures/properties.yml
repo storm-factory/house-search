@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  property_type: Condo
+  address: 123 Easy Street
+  state: AZ
+  zip: 12345
+  price: 1
+  beds: 1
+  baths: 1
+  location: A town
+  square_feet: 1
+  lot_size: 1
+  year_built: 1
+  url: www.google.com
+  latitude: 1
+  longitude: 1
+
+two:
+  property_type: House
+  address: 1600 Pennsylvania Ave
+  state: Washington DC
+  zip: 12345
+  price: 1
+  beds: 1
+  baths: 1
+  location: DC
+  square_feet: 1
+  lot_size: 1
+  year_built: 1
+  url: www.usa.gov
+  latitude: 1
+  longitude: 1
